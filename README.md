@@ -16,7 +16,7 @@ Hi, I'm Riza Radia Rivaldo, currently, I'm a Fullstack Developer Trainee at Arka
 - VueJS
 - ReactJS
 - NodeJS
-- PHP
+- MongoDB
 
 
 Here are some ideas to get you started:
