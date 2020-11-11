@@ -21,7 +21,7 @@ Hi, I'm Riza Radia Rivaldo, currently, I'm a Fullstack Developer Trainee at Arka
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node JS, Express JS, Vue JS, React JS, PHP
+- 🌱 I’m currently learning Node JS, Express JS, Vue JS, React JS
 - 📫 How to reach me: rizaradiarivaldo@gmail.com 
 
 
