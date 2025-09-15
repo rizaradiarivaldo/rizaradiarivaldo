@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
 ### Hey 👋 🏽, I'm [Riza!](https://github.com/rizaradiarivaldo) 
 
-#### Visitor
+<!--#### Visitor
   <p align="left">
   <img src="https://profile-counter.glitch.me/rizaradiarivaldo/count.svg" />
-  </p>
+  </p> -->
 
   **Talking about Personal Stuffs:**
   
